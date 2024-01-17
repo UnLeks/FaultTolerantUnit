@@ -1,0 +1,7 @@
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ComparisonModuleOfFaultTolerantUnit\bin\x64\Release\ComparisonModuleOfFaultTolerantUnit.exe.config
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ComparisonModuleOfFaultTolerantUnit\bin\x64\Release\ComparisonModuleOfFaultTolerantUnit.exe
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ComparisonModuleOfFaultTolerantUnit\bin\x64\Release\ComparisonModuleOfFaultTolerantUnit.pdb
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ComparisonModuleOfFaultTolerantUnit\obj\x64\Release\ComparisonModuleOfFaultTolerantUnit.csproj.AssemblyReference.cache
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ComparisonModuleOfFaultTolerantUnit\obj\x64\Release\ComparisonModuleOfFaultTolerantUnit.csproj.CoreCompileInputs.cache
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ComparisonModuleOfFaultTolerantUnit\obj\x64\Release\ComparisonModuleOfFaultTolerantUnit.exe
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ComparisonModuleOfFaultTolerantUnit\obj\x64\Release\ComparisonModuleOfFaultTolerantUnit.pdb
