@@ -1,0 +1,202 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\sidni\Documents\Quartus\FPGAmoduleOfFaultTolerantUnit\simulation\modelsim
+Efpgamoduleoffaulttolerantunit
+Z1 w1701700703
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dC:\Users\sidni\Documents\Quartus\FPGAmoduleOfFaultTolerantUnit\simulation\modelsim
+Z7 8C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/FPGAmoduleOfFaultTolerantUnit.vhd
+Z8 FC:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/FPGAmoduleOfFaultTolerantUnit.vhd
+l0
+L5
+Vi2b?N9ZLzA1^cBGmdIM_T0
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1701700766.439000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/FPGAmoduleOfFaultTolerantUnit.vhd|
+Z12 !s107 C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/FPGAmoduleOfFaultTolerantUnit.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 m5ElUhBfWVgFkH^k;aTkI2
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 29 fpgamoduleoffaulttolerantunit 0 22 i2b?N9ZLzA1^cBGmdIM_T0
+l99
+L18
+V@79HoPiEhOP8nGWARHe1?3
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 XgB:@5XUYDXm1d^RV7b^13
+!i10b 1
+Efpgamoduleoffaulttolerantunit_vhd_tst
+Z15 w1701700754
+R4
+R5
+R6
+Z16 8C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/simulation/modelsim/FPGAmoduleOfFaultTolerantUnit.vht
+Z17 FC:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/simulation/modelsim/FPGAmoduleOfFaultTolerantUnit.vht
+l0
+L30
+V5X?OM<LZD4cOTh7hJ<B?f2
+!s100 4VOlFPg[G@X>=5c3I0ACo1
+R9
+31
+!i10b 1
+Z18 !s108 1701700766.722000
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/simulation/modelsim/FPGAmoduleOfFaultTolerantUnit.vht|
+Z20 !s107 C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/simulation/modelsim/FPGAmoduleOfFaultTolerantUnit.vht|
+R13
+R14
+Afpgamoduleoffaulttolerantunit_arch
+R4
+R5
+DEx4 work 37 fpgamoduleoffaulttolerantunit_vhd_tst 0 22 5X?OM<LZD4cOTh7hJ<B?f2
+l45
+L32
+V0a@Z9KA4z6EE;5@Q1J1eE0
+!s100 U:NRmMjcafJhJ19Hblz_S0
+R9
+31
+!i10b 1
+R18
+R19
+R20
+R13
+R14
+Egtmr
+Z21 w1701537171
+R2
+R3
+R5
+R4
+Z22 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R6
+Z23 8C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/GTMR.vhd
+Z24 FC:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/GTMR.vhd
+l0
+L20
+V3mC1g[I0C_J;C1;MV^^A=0
+R9
+31
+Z25 !s108 1701700766.641000
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/GTMR.vhd|
+Z27 !s107 C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/GTMR.vhd|
+R13
+R14
+!s100 GaAkdZ;:Sji]H<Y28?FJ=3
+!i10b 1
+Abehavioral
+R2
+R3
+R5
+R4
+R22
+DEx4 work 4 gtmr 0 22 3mC1g[I0C_J;C1;MV^^A=0
+l140
+L51
+VEFC3=CGk=j2>TQ@SZ3Czz2
+R9
+31
+R25
+R26
+R27
+R13
+R14
+!s100 2<91ENEgYao`kH`n>6^F[1
+!i10b 1
+Enotmr
+Z28 w1701527393
+R2
+R3
+R5
+R4
+R22
+R6
+Z29 8C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/NoTMR.vhd
+Z30 FC:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/NoTMR.vhd
+l0
+L16
+V<0nBiH;CADZDaTQZk0;A`1
+R9
+31
+Z31 !s108 1701700766.514000
+Z32 !s90 -reportprogress|300|-93|-work|work|C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/NoTMR.vhd|
+Z33 !s107 C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/NoTMR.vhd|
+R13
+R14
+!s100 8H>^[D<aRJP^fPl?KLDo@2
+!i10b 1
+Abehavioral
+R2
+R3
+R5
+R4
+R22
+DEx4 work 5 notmr 0 22 <0nBiH;CADZDaTQZk0;A`1
+l65
+L35
+VJ18LLEK??J3WzB[?>b[fY2
+R9
+31
+R31
+R32
+R33
+R13
+R14
+!s100 _Z`o_1FiHB2lRRU?8MM?k1
+!i10b 1
+Etmr
+Z34 w1701527328
+R2
+R3
+R5
+R4
+R22
+R6
+Z35 8C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/TMR.vhd
+Z36 FC:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/TMR.vhd
+l0
+L17
+Vl1@TB:N1ZDb>=6z5Eh6C52
+R9
+31
+Z37 !s108 1701700766.578000
+Z38 !s90 -reportprogress|300|-93|-work|work|C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/TMR.vhd|
+Z39 !s107 C:/Users/sidni/Documents/Quartus/FPGAmoduleOfFaultTolerantUnit/TMR.vhd|
+R13
+R14
+!s100 6hnk9O=7gL`=:U`4I]8ef3
+!i10b 1
+Abehavioral
+R2
+R3
+R5
+R4
+R22
+DEx4 work 3 tmr 0 22 l1@TB:N1ZDb>=6z5Eh6C52
+l106
+L42
+VBA66;9zSmE?ZeEK3WD[zj2
+R9
+31
+R37
+R38
+R39
+R13
+R14
+!s100 fn;FHY@@Ih3:1J?1h>Zo01
+!i10b 1
