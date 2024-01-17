@@ -1,0 +1,7 @@
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ExternalModuleOfFaultTolerantUnit\bin\x64\Release\ExternalModuleOfFaultTolerantUnit.exe.config
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ExternalModuleOfFaultTolerantUnit\bin\x64\Release\ExternalModuleOfFaultTolerantUnit.exe
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ExternalModuleOfFaultTolerantUnit\bin\x64\Release\ExternalModuleOfFaultTolerantUnit.pdb
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ExternalModuleOfFaultTolerantUnit\obj\x64\Release\ExternalModuleOfFaultTolerantUnit.csproj.AssemblyReference.cache
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ExternalModuleOfFaultTolerantUnit\obj\x64\Release\ExternalModuleOfFaultTolerantUnit.csproj.CoreCompileInputs.cache
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ExternalModuleOfFaultTolerantUnit\obj\x64\Release\ExternalModuleOfFaultTolerantUnit.exe
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\ExternalModuleOfFaultTolerantUnit\obj\x64\Release\ExternalModuleOfFaultTolerantUnit.pdb
