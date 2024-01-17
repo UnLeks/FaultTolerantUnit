@@ -1,0 +1,7 @@
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\COMsniffer\bin\Debug\COMsniffer.exe.config
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\COMsniffer\bin\Debug\COMsniffer.exe
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\COMsniffer\bin\Debug\COMsniffer.pdb
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\COMsniffer\obj\Debug\COMsniffer.csproj.AssemblyReference.cache
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\COMsniffer\obj\Debug\COMsniffer.csproj.CoreCompileInputs.cache
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\COMsniffer\obj\Debug\COMsniffer.exe
+C:\Users\sidni\Documents\Visual Studio 2022\FaultTolerantUnit\COMsniffer\obj\Debug\COMsniffer.pdb
