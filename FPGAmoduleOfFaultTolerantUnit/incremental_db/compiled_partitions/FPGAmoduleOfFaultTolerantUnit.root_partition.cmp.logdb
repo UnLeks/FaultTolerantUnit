@@ -1,0 +1,5 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,NoTMR:NoTMR_instance|lpm_mult:Mult0|mult_pft:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,NoTMR:NoTMR_instance|lpm_mult:Mult0|mult_pft:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,NoTMR:NoTMR_instance|lpm_mult:Mult0|mult_pft:auto_generated|mac_out6,
+PORT_SWAPPING,PORT_SWAP_TYPE_DSPMULT,NoTMR:NoTMR_instance|lpm_mult:Mult0|mult_pft:auto_generated|mac_mult5,
